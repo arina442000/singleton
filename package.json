@@ -1,0 +1,23 @@
+{
+  "name": "singleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node.js": "0.0.1-security",
+    "npm": "^7.16.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Singleton"
+  },
+  "description": ""
+}
